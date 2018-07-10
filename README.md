@@ -2,4 +2,4 @@
 ## Content
 - Professional teams images.
 - Role/lane images.
-- Champion images
+- Champions square images.
