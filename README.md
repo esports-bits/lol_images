@@ -9,7 +9,7 @@
 
 ![Top role](https://raw.githubusercontent.com/davidherasp/lol_images/master/role_lane_icons/TOP.png)
 ![Jungle role](https://raw.githubusercontent.com/davidherasp/lol_images/master/role_lane_icons/JUNGLE.png)
-![Mid role](https://raw.githubusercontent.com/davidherasp/lol_images/master/role_lane_icons/MID.png)
+![Mid role](https://raw.githubusercontent.com/davidherasp/lol_images/master/role_lane_icons/MIDDLE.png)
 - Champions square images.
 
 ![Aatrox square](https://raw.githubusercontent.com/davidherasp/lol_images/master/champion-squares/Aatrox.png)
